@@ -1,0 +1,55 @@
+{
+  "id": "compendium-2024",
+  "title": "Compendium 2024",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": "",
+  "packs": [
+    {
+      "name": "zjustclasses",
+      "label": "Classes",
+      "type": "Item",
+      "path": "packs/zjustclasses",
+      "entity": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "zrealclasses",
+      "label": "Subclasses",
+      "type": "Item",
+      "path": "packs/zrealclasses",
+      "entity": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "zrealfeat",
+      "label": "Feats",
+      "type": "Item",
+      "path": "packs/zrealfeat",
+      "entity": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "zrealfeature",
+      "label": "Features",
+      "type": "Item",
+      "path": "packs/zrealfeature",
+      "entity": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "zrealbackground",
+      "label": "Background",
+      "type": "Item",
+      "path": "packs/zrealbackground",
+      "entity": "Item",
+      "system": "dnd5e"
+    }
+  ]
+}
