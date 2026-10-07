@@ -6,6 +6,8 @@
     "minimum": "14",
     "verified": "14"
   },
+  "manifest": "https://raw.githubusercontent.com/kleenexvo/compendium-2024/main/module.json",
+  "download": "https://github.com/kleenexvo/compendium-2024/archive/refs/heads/main.zip",
   "flags": {
     "canUpload": true
   },
