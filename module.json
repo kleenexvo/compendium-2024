@@ -52,6 +52,14 @@
       "path": "packs/zrealbackground",
       "entity": "Item",
       "system": "dnd5e"
+    },
+    {
+      "name": "zrealspecies",
+      "label": "Species",
+      "type": "Item",
+      "path": "packs/zrealspecies",
+      "entity": "Item",
+      "system": "dnd5e"
     }
   ]
 }
