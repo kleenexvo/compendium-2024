@@ -1,11 +1,15 @@
-2026/10/08-18:00:05.606 e68 Recovering log #135
-2026/10/08-18:00:05.607 e68 Level-0 table #137: started
-2026/10/08-18:00:05.613 e68 Level-0 table #137: 100276 bytes OK
-2026/10/08-18:00:05.616 e68 Delete type=0 #135
-2026/10/08-18:00:05.616 e68 Delete type=3 #134
-2026/10/08-18:00:05.912 63b8 Compacting 1@0 + 1@1 files
-2026/10/08-18:00:05.945 63b8 Generated table #139@0: 896 keys, 1064814 bytes
-2026/10/08-18:00:05.945 63b8 Compacted 1@0 + 1@1 files => 1064814 bytes
-2026/10/08-18:00:05.946 63b8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/10/08-18:00:05.946 63b8 Delete type=2 #127
-2026/10/08-18:00:05.946 63b8 Delete type=2 #137
+2026/10/10-17:06:44.386 7954 Recovering log #138
+2026/10/10-17:06:44.387 7954 Level-0 table #141: started
+2026/10/10-17:06:44.404 7954 Level-0 table #141: 352077 bytes OK
+2026/10/10-17:06:44.406 7954 Delete type=0 #138
+2026/10/10-17:06:44.406 7954 Delete type=3 #136
+2026/10/10-17:06:45.135 8bbc Compacting 1@0 + 1@1 files
+2026/10/10-17:06:45.174 8bbc Generated table #143@0: 977 keys, 1151442 bytes
+2026/10/10-17:06:45.174 8bbc Compacted 1@0 + 1@1 files => 1151442 bytes
+2026/10/10-17:06:45.175 8bbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/10-17:06:45.175 8bbc Delete type=2 #139
+2026/10/10-17:06:45.176 8bbc Delete type=2 #141
+2026/10/10-17:23:36.961 8bbc Level-0 table #145: started
+2026/10/10-17:23:36.961 8bbc Level-0 table #145: 0 bytes OK
+2026/10/10-17:23:36.962 8bbc Delete type=0 #142
+2026/10/10-17:23:36.985 8bbc Manual compaction at level-0 from '!folders!0qEPPIqd3K4LpDvX' @ 72057594037927935 : 1 .. '!items.effects!yi6uBLpOaOJL4ien.zealousPresencex' @ 0 : 0; will stop at (end)

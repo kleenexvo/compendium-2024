@@ -47,7 +47,7 @@
     },
     {
       "name": "zrealbackground",
-      "label": "Background",
+      "label": "Backgrounds",
       "type": "Item",
       "path": "packs/zrealbackground",
       "entity": "Item",
@@ -58,6 +58,14 @@
       "label": "Species",
       "type": "Item",
       "path": "packs/zrealspecies",
+      "entity": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "zrealspell",
+      "label": "Spells",
+      "type": "Item",
+      "path": "packs/zrealspell",
       "entity": "Item",
       "system": "dnd5e"
     }

@@ -1,7 +1,17 @@
-2026/10/08-18:00:05.626 e68 Recovering log #96
-2026/10/08-18:00:05.627 e68 Delete type=0 #96
-2026/10/08-18:00:05.627 e68 Delete type=3 #95
-2026/10/08-19:42:13.435 63b8 Compacting 1@0 + 1@1 files
-2026/10/08-19:42:13.445 63b8 Generated table #99@0: 250 keys, 316229 bytes
-2026/10/08-19:42:13.445 63b8 Compacted 1@0 + 1@1 files => 316229 bytes
-2026/10/08-19:42:13.445 63b8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/10-17:06:44.451 7954 Recovering log #98
+2026/10/10-17:06:44.452 7954 Level-0 table #101: started
+2026/10/10-17:06:44.458 7954 Level-0 table #101: 90149 bytes OK
+2026/10/10-17:06:44.460 7954 Delete type=2 #91
+2026/10/10-17:06:44.460 7954 Delete type=2 #93
+2026/10/10-17:06:44.460 7954 Delete type=0 #98
+2026/10/10-17:06:44.460 7954 Delete type=3 #97
+2026/10/10-17:19:48.250 8bbc Compacting 1@0 + 1@1 files
+2026/10/10-17:19:48.262 8bbc Generated table #103@0: 250 keys, 316817 bytes
+2026/10/10-17:19:48.262 8bbc Compacted 1@0 + 1@1 files => 316817 bytes
+2026/10/10-17:19:48.263 8bbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/10-17:19:48.263 8bbc Delete type=2 #99
+2026/10/10-17:19:48.263 8bbc Delete type=2 #101
+2026/10/10-17:23:36.959 8bbc Level-0 table #105: started
+2026/10/10-17:23:36.959 8bbc Level-0 table #105: 0 bytes OK
+2026/10/10-17:23:36.960 8bbc Delete type=0 #102
+2026/10/10-17:23:36.971 8bbc Manual compaction at level-0 from '!folders!PhH5gECTjtO54fwz' @ 72057594037927935 : 1 .. '!items.effects!wiqfJJEfjoV4O5Jf.elementalFamilia' @ 0 : 0; will stop at (end)

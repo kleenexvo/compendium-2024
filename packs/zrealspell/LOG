@@ -1,0 +1,5 @@
+2026/10/10-17:16:26.736 3ddc Delete type=3 #1
+2026/10/10-17:23:37.016 8bbc Level-0 table #5: started
+2026/10/10-17:23:37.050 8bbc Level-0 table #5: 875707 bytes OK
+2026/10/10-17:23:37.050 8bbc Delete type=0 #3
+2026/10/10-17:23:37.052 8bbc Manual compaction at level-0 from '!items!03qhlXkgetFxzDr3' @ 72057594037927935 : 1 .. '!items.effects!ztqEOsFR2AVOSihR.sanctuaryxxxxxxx' @ 0 : 0; will stop at (end)
